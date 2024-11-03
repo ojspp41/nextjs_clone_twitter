@@ -243,3 +243,4 @@ module.exports = withVanillaExtract(nextConfig);
 - .env, .env.production 값 실제 서버 값으로 수정하기
 - 서버에서 npm run start로 실행하면 됨
 # nextjs_clone_twitter
+# nextjs_clone_twitter
